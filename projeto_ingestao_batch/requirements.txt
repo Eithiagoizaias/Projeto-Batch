@@ -2,3 +2,5 @@ pandas
 apache-airflow==2.10.4
 openpyxl
 requests
+pyspark==3.5.1
+delta-spark==3.1.0
