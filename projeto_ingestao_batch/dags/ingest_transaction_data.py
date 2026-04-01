@@ -18,7 +18,7 @@ DATALAKE_PATH = ''
 
 with DAG(
     dag_id="INGEST_TRANSACTION_DATA",
-    start_date=datetime(2025, 4, 10),
+    start_date=datetime(2026, 4, 1),
     schedule="0 3 * * *",
     catchup=True
 ) as dag:
