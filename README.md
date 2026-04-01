@@ -36,7 +36,7 @@ INGEST_DATA_FROM_SOURCE_TO_BRONZE  >>  INGEST_DATA_FROM_BRONZE_TO_SILVER
 |---|---|
 | DAG ID | `INGEST_TRANSACTION_DATA` |
 | Schedule | `0 3 * * *` (diariamente às 3h) |
-| Start Date | 2025-04-10 |
+| Start Date | 2026-04-01 |
 | Catchup | Habilitado |
 
 ### Etapa 1 — Source to Bronze
