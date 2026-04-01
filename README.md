@@ -1,4 +1,4 @@
-# 📦 Projeto 1 — Ingestão Batch de Dados Transacionais
+# 📦 Projeto — Ingestão Batch de Dados Transacionais
 
 Pipeline de ingestão batch orquestrado com **Apache Airflow**, processamento com **PySpark** e armazenamento em formato **Delta Lake**, seguindo a arquitetura medallion (Source → Bronze → Silver).
 
